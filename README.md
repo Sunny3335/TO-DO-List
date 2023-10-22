@@ -1,0 +1,2 @@
+# It provides a digital platform for users to keep track of their tasks, set priorities, and improve their productivity.
+# This to-do list web app is designed to help individuals and teams organize their tasks, prioritize work, and improve time management by providing a centralized platform for task management and productivity.
